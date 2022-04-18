@@ -1,18 +1,72 @@
 {
     "name": "@batvpn/BatVPN-client",
     "version": "0.1.2",
+    "update_url": "https://raw.githubusercontent.com/batvpn/BatVPN-Client/main/update.zip",
+    "complete_url": "https://raw.githubusercontent.com/batvpn/BatVPN-Client/main/batvpn.zip",
     "repository": {
         "type": "git",
         "url": "https://github.com/batvpn/BatVPN-client.git"
     },
     "main": "index",
-    "manifest": [{
-        "version": "0.0.1",
-        "file": ["12.js","22.js"],
-        "detail":["修复12","修复22"]
+    "history": [{
+        "version": "0.1.5",
+        "release_time": "2022-01-13",
+        "description":"右键菜单列表优化"
+    },{
+        "version": "0.1.4",
+        "release_time": "2021-11-15",
+        "description":"支持即时聊天功能，随时联系在线客服"
+    },{
+        "version": "0.1.3",
+        "release_time": "2021-04-21",
+        "description":"支持在线更新"
+    },{
+        "version": "0.1.2",
+        "release_time": "2020-06-09",
+        "description":"支持多语言设置"
+    },{
+        "version": "0.1.1",
+        "release_time": "2020-01-05",
+        "description":"支持风格随系统变化，或者设置为随时间显示白天和暗黑模式，或者单独设置白天和暗黑风格"
+    },{
+        "version": "0.1.0",
+        "release_time": "2019-07-11",
+        "description":"支持会员Gravatar头像"
+    },{
+        "version": "0.0.9",
+        "release_time": "2019-05-21",
+        "description":"支持用户数据刷新"
+    },{
+        "version": "0.0.8",
+        "release_time": "2018-09-28",
+        "description":"开关状态美化，修复一些列bug"
+    },{
+        "version": "0.0.7",
+        "release_time": "2018-03-04",
+        "description":"支持路由模式切换"
+    },{
+        "version": "0.0.6",
+        "release_time": "2018-01-17",
+        "description":"支持会员登录，并同步节点数据"
+    },{
+        "version": "0.0.5",
+        "release_time": "2017-10-18",
+        "description":"支持 系统日志 内核日志"
+    },{
+        "version": "0.0.4",
+        "release_time": "2017-08-20",
+        "description":"支持 PAC编辑 PAC 重启"
+    },{
+        "version": "0.0.3",
+        "release_time": "2017-02-08",
+        "description":"支持 Socks5端口 HTTP端口 PAC服务器端口等设置"
     },{
         "version": "0.0.2",
-        "file": ["33.js","44.js"],
-        "detail":["修复32","修复252"]
+        "release_time": "2016-06-22",
+        "description":"支持订阅"
+    },{
+        "version": "0.0.1",
+        "release_time": "2016-03-18",
+        "description":"测试版发布"
     }]
 }
