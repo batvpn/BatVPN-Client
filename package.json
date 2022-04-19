@@ -1,8 +1,17 @@
 {
-    "name": "@batvpn/BatVPN-client",
-    "version": "0.1.2",
-    "update_url": "https://raw.githubusercontent.com/batvpn/BatVPN-Client/main/update.zip",
-    "complete_url": "https://raw.githubusercontent.com/batvpn/BatVPN-Client/main/batvpn.zip",
+    "name": "batvpn/BatVPN-client",
+    "win": {
+        "version": "0.1.2",
+        "update_url": "https://raw.githubusercontent.com/batvpn/BatVPN-Client/main/win/update.zip",
+        "complete_update_url": "https://raw.githubusercontent.com/batvpn/BatVPN-Client/main/win/complete_update.zip",
+        "complete_install_url": "https://raw.githubusercontent.com/batvpn/BatVPN-Client/main/win/batvpn_app.zip",
+    }
+    "mac": {
+        "version": "0.1.2",
+        "update_url": "https://raw.githubusercontent.com/batvpn/BatVPN-Client/main/mac/update.zip",
+        "complete_update_url": "https://raw.githubusercontent.com/batvpn/BatVPN-Client/main/mac/complete_update.zip",
+        "complete_install_url": "https://raw.githubusercontent.com/batvpn/BatVPN-Client/main/mac/batvpn_app.zip",
+    }
     "repository": {
         "type": "git",
         "url": "https://github.com/batvpn/BatVPN-client.git"
