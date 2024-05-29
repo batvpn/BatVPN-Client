@@ -127,10 +127,11 @@
     "APIPathBackup": [
         "https://bat.vpnb.net",
         "https://boda12306.com",
-        "https://www.batvpn.top"
+        "https://www.batvpn.top",
+        "https://account.owlvpn.net"
     ],
     "chatBackup": [
-        "https://chat.owlvpn.net/assets/diy/mini/ymwl_diy_1.js",
-        "https://chat.boda10086.com/assets/diy/mini/ymwl_diy_1.js"
+        "https://chat.boda10086.com/assets/diy/mini/ymwl_diy_1.js",
+        "https://chat.batvpn.eu.org/assets/diy/mini/ymwl_diy_1.js"
     ]
 }
