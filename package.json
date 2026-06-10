@@ -27,14 +27,14 @@
             "state": "1",
             "type": "warning",
             "title": "pc版官方客户端需要更新",
-            "message": "因旧版本不兼容新协议，所以必须升级到1.6.1版本。手机客户端也需要刷新订阅，<a class='btn bg-gradient-info btn-sm my-0 me-2' href='javascript:onClickControl(\"shellOpenExternal\", \"https://bat.vpnb.net/zh/help/50\")'>刷新方式</a>"
+            "message": "因旧版本不兼容新协议，所以必须升级到1.6.1版本。手机客户端也需要刷新订阅，<a class='btn bg-gradient-info btn-sm my-0 me-2' target='_blank' href='https://bat.vpnb.net/zh/help/50'>刷新方式</a>"
         },
         "modal": {
             "state": "1",
             "type": "warning",
             "version": "1.5.1",
             "title": "您需要更新客户端啦",
-            "message": "因旧版本不兼容新协议，所以必须升级到1.6.1版本。手机客户端也需要刷新订阅，<a class='btn bg-gradient-info btn-sm my-0 me-2' href='javascript:onClickControl(\"shellOpenExternal\", \"https://bat.vpnb.net/zh/help/50\")'>刷新方式</a>"
+            "message": "因旧版本不兼容新协议，所以必须升级到1.6.1版本。手机客户端也需要刷新订阅，<a class='btn bg-gradient-info btn-sm my-0 me-2' href='"https://bat.vpnb.net/zh/help/50\")'>刷新方式</a>"
         }
     },
     "history": [
