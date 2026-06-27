@@ -12,6 +12,12 @@
         "complete_update_url": "https://storage.static.owlvpn.net/BatVPN-Client/mac/complete_update.zip",
         "complete_install_url": "https://storage.static.owlvpn.net/BatVPN-Client/mac/BatVPN_mac.dmg"
     },
+    "mac_x64": {
+        "version": "1.6.1",
+        "update_url": "https://storage.static.owlvpn.net/BatVPN-Client/mac/update.zip",
+        "complete_update_url": "https://storage.static.owlvpn.net/BatVPN-Client/mac/complete_update.zip",
+        "complete_install_url": "https://storage.static.owlvpn.net/BatVPN-Client/mac/BatVPN_mac_x64.dmg"
+    },
     "linux": {
         "version": "1.6.1",
         "update_url": "https://storage.static.owlvpn.net/BatVPN-Client/linux/update.zip",
@@ -24,7 +30,7 @@
     },
     "notify": {
         "toast": {
-            "state": "1",
+            "state": "0",
             "type": "warning",
             "title": "pc版官方客户端需要更新",
             "message": "因旧版本不兼容新协议，所以必须升级到1.6.1版本。手机客户端也需要刷新订阅，<a class='btn bg-gradient-info btn-sm my-0 me-2' target='_blank' href=\"https://bat.vpnb.net/zh/help/50\">刷新方式</a>"
