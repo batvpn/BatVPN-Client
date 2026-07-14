@@ -1,25 +1,25 @@
 {
     "name": "batvpn/BatVPN-client",
     "win": {
-        "version": "1.7.1",
+        "version": "1.6.1",
         "update_url": "https://storage.static.owlvpn.net/BatVPN-Client/win/update.zip",
         "complete_update_url": "https://storage.static.owlvpn.net/BatVPN-Client/win/complete_update.zip",
         "complete_install_url": "https://storage.static.owlvpn.net/BatVPN-Client/win/BatVPN_win.exe"
     },
     "mac": {
-        "version": "1.7.1",
+        "version": "1.6.1",
         "update_url": "https://storage.static.owlvpn.net/BatVPN-Client/mac/update.zip",
         "complete_update_url": "https://storage.static.owlvpn.net/BatVPN-Client/mac/complete_update.zip",
         "complete_install_url": "https://storage.static.owlvpn.net/BatVPN-Client/mac/BatVPN_mac.dmg"
     },
     "mac_x64": {
-        "version": "1.7.1",
+        "version": "1.6.1",
         "update_url": "https://storage.static.owlvpn.net/BatVPN-Client/mac/update.zip",
         "complete_update_url": "https://storage.static.owlvpn.net/BatVPN-Client/mac/complete_update.zip",
         "complete_install_url": "https://storage.static.owlvpn.net/BatVPN-Client/mac/BatVPN_mac_x64.dmg"
     },
     "linux": {
-        "version": "1.7.1",
+        "version": "1.6.1",
         "update_url": "https://storage.static.owlvpn.net/BatVPN-Client/linux/update.zip",
         "complete_update_url": "https://storage.static.owlvpn.net/BatVPN-Client/linux/complete_update.zip",
         "complete_install_url": "https://storage.static.owlvpn.net/BatVPN-Client/linux/BatVPN_linux.AppImage"
