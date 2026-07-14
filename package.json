@@ -171,6 +171,7 @@
         "https://doh.pub/dns-query"
     ],
     "NodeDNS": [
+        "localhost",
         "180.76.76.76",
         "2400:da00::6666",
         "223.5.5.5",
@@ -187,8 +188,7 @@
         "https+local://dns.alidns.com/dns-query#h3=true",
         "https+local://doh.pub/dns-query",
         "https+local://1.1.1.1/dns-query",
-        "https+local://cloudflare-dns.com/dns-query",
-        "localhost"
+        "https+local://cloudflare-dns.com/dns-query"
     ],
     "chatBackup": [
         "https://chat.boda10086.com/assets/diy/mini/ymwl_diy_1.js",
